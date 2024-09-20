@@ -3,7 +3,7 @@
 
 ## Description
 
-A Command-Line Interface (CLI) application built with Node.js that generates secure passwords based on user-defined criteria. Customize your password with options for length, inclusion of numbers, uppercase letters, and symbols.
+A Command-Line Interface (CLI) application built with Node.js that generates secure passwords based on user-defined criteria. Customize your password with options for length, numbers, uppercase letters, and symbols.
 
 ## Features
 
