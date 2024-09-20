@@ -4,6 +4,8 @@
 // Beth-Ann Penney-Rideout
 // September 19, 2024
 
+
+// Function generates a random password based on the following criteria:
 function generatePassword(length, includeLowercase, includeUppercase, includeNumbers, includeSymbols){
 
     const lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
