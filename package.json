@@ -16,9 +16,6 @@
     "pw-generator": "./index.js"
   },
   "dependencies": {
-    "boxen": "^8.0.1",
-    "chalk": "^5.3.0",
     "commander": "^12.1.0",
-    "randomstring": "^1.3.0"
   }
 }
